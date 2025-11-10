@@ -172,10 +172,3 @@ Potential additions for production use:
 - [Bonjour Overview](https://developer.apple.com/bonjour/)
 - [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
 
----
-
-**⭐ If you find this project helpful, please give it a star!**
-
----
-
-*Built with ❤️ and Swift*
