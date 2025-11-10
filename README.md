@@ -7,10 +7,10 @@
 ## Screenshots
 
 ### Sender Mode - Device Discovery
-![Sender discovering devices](screenshots/sender.png)
+![Sender discovering devices](sender.png)
 
 ### Receiver Mode
-![Receiver receiving audio packets](screenshots/receiver.png)
+![Receiver receiving audio packets](receiver.png)
 
 ---
 
