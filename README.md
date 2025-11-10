@@ -1,6 +1,6 @@
 # AirCast - Network Audio Streaming System
 
-**A real-time audio streaming application demonstrating Bonjour/mDNS service discovery and RTP-based UDP streaming, built with Swift and SwiftUI.**
+**A real-time audio streaming iOS application demonstrating Bonjour/mDNS service discovery and RTP-based UDP streaming, built with Swift and SwiftUI.**
 
 ---
 
